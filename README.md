@@ -1,2 +1,2 @@
 # repo-for-practice
-Repository where I practice some ML appraches 
+Repository where I practice some ML approaches 
